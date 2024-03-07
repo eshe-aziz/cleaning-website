@@ -228,3 +228,10 @@ ul {
   border-top: solid;
   border-color: rgb(202, 200, 200);
 }
+
+form{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 600px; 
+}
+
